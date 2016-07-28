@@ -1,0 +1,139 @@
+* {
+  font-family: 'Mirza', cursive;
+  font-size: 18px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.section-title {
+  font-size: 24px;
+  color: black;
+}
+
+.color-rules {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100px;
+}
+
+.division-rules {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+}
+
+.charge-rules {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+}
+
+.examples {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 200px;
+}
+
+.example-img {
+  width: 200px;
+  height: auto;
+}
+
+.color-demo {
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.charge-demo {
+  height: auto;;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.gules{
+  background-color: #cf1717;
+  color: white;
+}
+
+.argent{
+  background-color: #dddddd;
+  color: black;
+}
+
+.sable{
+  background-color: #000000;
+  color: white;
+}
+
+.vert{
+  background-color: #00884A;
+  color: white;
+}
+
+.azure{
+  background-color: #00549A;
+  color: white;
+}
+
+.purpure{
+  background-color: #642667;
+  color: white;
+}
+
+.murrey{
+  background-color: #991B41;
+  color: white;
+}
+
+.cendree{
+  background-color: #b6ada5;
+  color: black;
+}
+
+.brunatre{
+  background-color: #AA8155;
+  color: white;
+}
+
+.amaranth{
+  background-color: #bb16a3;
+  color: white;
+}
+
+.or{
+  background-color: #FFC212;
+  color: black;
+}
+
+.bleu-celeste{
+  background-color: #0193DD;
+  color: white;
+}
+
+.ermine {
+  background-image: url('../img/ermine.png');
+  background-repeat: repeat;
+  color: black;
+  font-size: 24px;
+}
+
+.vair {
+  background-image: url('../img/vair.png');
+  background-repeat: repeat;
+  color: black;
+  font-size: 24px;
+}
